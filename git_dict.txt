@@ -1,6 +1,7 @@
-1. git init -- initiate new project
-2. git add <file_name> -- add the file "filename" to the checking list and also to the stage area of git.
-3. git stage <file_name> -- add the file "filename" to tha stage area.
+1. git init : initiate new project
+2. git add <file_name> : add the file "filename" to the checking list and also to the stage area of git.
+3. git stage <file_name> : add the file "filename" to tha stage area.
 4. git commit -- commit all staged files.
-    4.1. git commit --amend -- change the last commit.
-5. git status -- get status of all checking files.
+    4.1. git commit --amend : edit the last commit.
+    4.2. git commit -a : skipping the stage area, add all tracked files to tha stage area and commit their.
+5. git status : get status of all checking files.
