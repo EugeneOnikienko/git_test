@@ -9,3 +9,5 @@
     6.1 git remote add <source_name> <source_addr> : add new source with <source_name> name.
 7. git branch : show list of avalible branches.
     7.1 git branch <branch_name> : add new branch with name <new_branch>
+8. git checkout <working_tree_path> : checkout a path to the working tree.
+    8.1 git checkout -b : add new branch and checkout it.
