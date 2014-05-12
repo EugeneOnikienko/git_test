@@ -5,3 +5,7 @@
     4.1. git commit --amend : edit the last commit.
     4.2. git commit -a : skipping the stage area, add all tracked files to tha stage area and commit their.
 5. git status : get status of all checking files.
+6. git remote : list of remote sources.
+    6.1 git remote add <source_name> <source_addr> : add new source with <source_name> name.
+7. git branch : show list of avalible branches.
+    7.1 git branch <branch_name> : add new branch with name <new_branch>
